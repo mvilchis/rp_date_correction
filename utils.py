@@ -105,4 +105,4 @@ def parse_date(date):
             return final_date
 
     #Maybe rapidpro can parse date
-    return date
+    return ""
